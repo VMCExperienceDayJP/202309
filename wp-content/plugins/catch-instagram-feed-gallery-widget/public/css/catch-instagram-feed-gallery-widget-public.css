@@ -119,7 +119,7 @@
 .catch-instagram-feed-gallery-widget-wrapper.round
 	.catch-instagram-feed-gallery-widget-image-wrapper
 	img {
-	border-radius: 50%;
+	border-radius: 1%;
 	display: block;
 	margin: auto;
 }

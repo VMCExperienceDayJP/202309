@@ -1108,8 +1108,8 @@ input[type="submit"],
 }
 
 .more-link .fa {
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 1%;
+	border-radius: 1%;
 	border: 3px solid;
 	font-size: 24px;
 	font-size: 1.5rem;
@@ -2240,7 +2240,7 @@ body {
 }
 
 .site .avatar {
-	border-radius: 50%;
+	border-radius: 1%;
 }
 
 .author-avatar .avatar {
@@ -4545,8 +4545,8 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 	background-color: transparent;
 	background-image: none;
 	border: 1px solid;
-    -webkit-border-radius: 50%;
-	border-radius: 50%;
+    -webkit-border-radius: 1%;
+	border-radius: 1%;
     outline: none;
     line-height: 1;
     padding: 11px;
@@ -4660,8 +4660,8 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 
 #logo-slider-section .owl-dots button,
 #testimonial-content-section .owl-dots button {
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 1%;
+	border-radius: 1%;
 	clear: both;
 	cursor: pointer;
 	display: inline-block;
@@ -4676,8 +4676,8 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 
 #logo-slider-section .owl-dots button span,
 #testimonial-content-section .owl-dots button span {
-	border-radius: 50%;
-	-webkit-border-radius: 50%;
+	border-radius: 1%;
+	-webkit-border-radius: 1%;
 	display: block;
 	padding-bottom: 100%;
 }
@@ -4738,7 +4738,7 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 }
 
 #testimonial-dots li img {
-	border-radius: 50%;
+	border-radius: 1%;
 	cursor: pointer;
 	height: 100px;
 	width: 100px
@@ -4883,8 +4883,8 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 
 .team-social-profile .menu-social-container a,
 .widget-area .menu-social-container a {
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 1%;
+	border-radius: 1%;
 	height: 40px;
 	line-height: 40px;
 	margin: 7px 7px 0 0;
@@ -5115,7 +5115,7 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 }
 
 .ewnewsletter .ew-newsletter-wrap #subbutton {
-	border-radius: 50%;
+	border-radius: 1%;
 	height: 40px;
 	margin: 0;
 	padding: 5px;
@@ -5236,7 +5236,7 @@ body.header-style-horizontal-one .featured-content-section.boxed .wrapper {
 
 .social-contact .menu-social-container li a {
 	border: 3px solid ;
-	border-radius: 50%;
+	border-radius: 1%;
 	font-size: 20px;
 	font-size: 1.25rem;
 	height: 50px;
@@ -5431,7 +5431,7 @@ body:not(.home) .custom-header {
 .has-header-video .wp-custom-header-video-button {
 	background-color: transparent;
 	border: 1px solid;
-	border-radius: 50%;
+	border-radius: 1%;
 	height: 50px;
 	opacity: 1;
 	padding: 0;
@@ -5948,7 +5948,7 @@ body:not(.home) .custom-header {
 }
 
 .mejs-time-handle-content {
-    border-radius: 50%;
+    border-radius: 1%;
     height: 10px;
     left: -3px;
     top: -5px;
@@ -6665,8 +6665,8 @@ body #playlist-section .wp-playlist {
 }
 
 body .wp-playlist .wp-playlist-current-item img {
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 1%;
+	border-radius: 1%;
     margin-right: 14px;
     width: 50px;
     height: 50px;
@@ -6943,7 +6943,7 @@ body .wp-playlist-item-artist {
 
 .wp-playlist .wp-playlist-playing .wp-playlist-caption .wp-playlist-item-title:after {
 	border: 1px solid;
-	border-radius: 50%;
+	border-radius: 1%;
 	display: inline-block;
 	font-size: 10px;
 	font-size: 0.625rem;
@@ -7269,7 +7269,7 @@ body .wp-playlist-item-artist {
 }
 
 #timeline-section .hentry:before {
-	border-radius: 50%;
+	border-radius: 1%;
 	content: "";
 	left: -34px;
 	position: absolute;
@@ -7429,7 +7429,7 @@ body .wp-playlist-item-artist {
 }
 
 #product-content-section.round-product-image li.product > .woocommerce-loop-product__link {
-    border-radius: 50%;
+    border-radius: 1%;
     display: inline-block;
     height: 0;
     margin-bottom: 21px;
@@ -7440,7 +7440,7 @@ body .wp-playlist-item-artist {
 }
 
 #product-content-section.round-product-image li.product > .woocommerce-loop-product__link img {
-    border-radius: 50%;
+    border-radius: 1%;
     display: block;
     position: absolute;
     top: 0;
@@ -7899,8 +7899,8 @@ ul.woocommerce-error {
 }
 
 #reviews #comments ol.commentlist li img.avatar {
-	-webkit-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 1%;
+	border-radius: 1%;
 	float: left;
 	position: absolute;
 	top: 7px;
@@ -8124,7 +8124,7 @@ input[type="submit"]:disabled {
 }
 
 .below-site-header .site-header-cart .cart-contents .count {
-	border-radius: 50%;
+	border-radius: 1%;
 	margin-left: 7px;
 	padding: 6px;
 	position: absolute;
@@ -11397,7 +11397,7 @@ body.customize-partial-edit-shortcuts-shown .customize-partial-edit-shortcut but
 
 	#gallery-content-section .gallery-icon a:after,
 	#gallery-content-section .tiled-gallery-item a:after {
-		border-bottom-left-radius: 50%;
+		border-bottom-left-radius: 1%;
 		content: "\f002";
 		font-size: 16px;
 		font-size: 1rem;
