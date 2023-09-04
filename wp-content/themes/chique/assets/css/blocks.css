@@ -331,7 +331,7 @@ figure.wp-block-pullquote.is-style-solid-color {
 
 .wp-block-button.is-style-outline .wp-block-button__link,
 .wp-block-button__link.is-style-outline {
-    color: #e186a2;
+    color: #78be1f;
     background-color: transparent;
     border: 2px solid;
 }
@@ -681,7 +681,7 @@ figure.wp-block-table table {
 
 .wp-block-file .wp-block-file__button,
 .wp-block-button .wp-block-button__link {
-	background-color: #e186a2;
+	background-color: #78be1f;
 	color: #fff;
 }
 
@@ -818,18 +818,18 @@ figure.wp-block-table table {
 .wp-block-button.is-style-outline > .wp-block-button__link.has-deep-blush-color,
 .wp-block-button__link.is-style-outline.has-deep-blush-color,
 .has-deep-blush-color {
-	color: #e186a2;
+	color: #78be1f;
 }
 
 .wp-block-pullquote.is-style-solid-color.has-deep-blush-background-color,
 .wp-block-button .wp-block-button__link.has-deep-blush-background-color,
 .has-deep-blush-background-color {
-	background-color: #e186a2;
+	background-color: #78be1f;
 }
 
 .is-style-outline > .wp-block-button__link.has-deep-blush-color,
 .wp-block-button__link.is-style-outline.has-deep-blush-color {
-	border-color: #e186a2;
+	border-color: #78be1f;
 }
 
 /* Color Tradewind */

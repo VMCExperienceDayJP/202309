@@ -14869,7 +14869,7 @@ input[type="submit"],
 #gallery-content-section .tiled-gallery-item a:after,
 .site-contact li.contact-button a:hover,
 .site-contact li.contact-button a:focus {
-	background-color: #e186a2;
+	background-color: #78be1f;
 }
 
 #logo-slider-section .owl-prev:hover,
@@ -14881,18 +14881,18 @@ input[type="submit"],
 #testimonial-content-section .owl-next:hover,
 #testimonial-content-section .owl-next:focus,
 .site-contact li.contact-button a {
-	border-color: #e186a2;
+	border-color: #78be1f;
 }
 
 .sticky-label:after {
-	border-left-color: #e186a2;
+	border-left-color: #78be1f;
 }
 
 #testimonial-content-section .entry-meta,
 .section-tagline,
 .site-contact li:before,
 .site-contact li.contact-button a {
-	color: #e186a2;
+	color: #78be1f;
 }
 
 /* Button Text Color */
