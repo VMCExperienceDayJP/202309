@@ -486,8 +486,8 @@ figure.wp-block-table table {
 
 .wp-block-button .wp-block-button__link {
 	border: none;
-	-webkit-border-radius: 32px;
-	border-radius: 32px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
 	display: inline-block;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 18px;
@@ -852,4 +852,3 @@ figure.wp-block-table table {
 .wp-block-button__link.is-style-outline.has-tradewind-color {
 	border-color: #6bbcba;
 }
-

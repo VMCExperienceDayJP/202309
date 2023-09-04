@@ -1069,8 +1069,8 @@ input[type="submit"],
 .pricing-section .hentry .more-link,
 .product-container .wc-forward {
 	border: 0;
-	-webkit-border-radius: 32px;
-	border-radius: 32px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
 	font-size: 18px;
 	font-size: 1.125rem;
 	font-stretch: condensed;
